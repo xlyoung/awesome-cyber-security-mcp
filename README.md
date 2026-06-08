@@ -49,6 +49,7 @@ It allows AI models to safely communicate with and control your local security t
 - [Nuclei MCP](https://github.com/addcontent/nuclei-mcp) – Fast vulnerability scanning with Nuclei via MCP.
 - [Illumio MCP](https://github.com/alexgoller/illumio-mcp-server) – AI-driven workload management and traffic flow analysis.
 - [ZAP Mcp](https://github.com/dtkmn/mcp-zap-server) - Exposes ZAP actions as MCP tools. Eliminates manual CLI calls and brittle scripts.
+- [MCP Doctor](https://github.com/xlyoung/mcp-doctor) – Scan, score, and install MCP servers with security checks. 8 detection engines + curated registry of 100+ servers.
 - [MCP Doctor](https://github.com/xlyoung/mcp-doctor) – Scan, score, and install MCP servers with security checks. 10 detection engines, quality scoring (0-100), and curated registry of 100+ servers.
 
 ---
